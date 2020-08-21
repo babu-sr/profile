@@ -1,5 +1,6 @@
 {
 	"configuration": {
+		"BASE_HREF": "profile",
 		"SITE_TITLE": "Profile",
 		"API_URL": "https://babu-sr.github.io",
 		"API_PREFIX": "profile",
