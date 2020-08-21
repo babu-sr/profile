@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"company": "Touchmark Media",
+		"location": "Chennai",
+		"datefrom": "2015-09-01",
+		"dateto": "2016-02-06",
+		"position": "Application Developer",
+		"responsibility": "My 1st Company,\r\nDeveloping and maintaining office management tool of our office,\r\nWebsite template designing in Photoshop,\r\nTemplate UI to HTML UI conversion,\r\nEcommerce development,\r\nStatic Website,\r\nCustom Application Development.",
+		"logo": "",
+		"current_company": 0,
+		"status": 1
+	},
+	{
+		"id": 2,
+		"company": "Binary Resonance Pvt Ltd",
+		"location": "Chennai",
+		"datefrom": "2016-02-15",
+		"dateto": "2016-07-16",
+		"position": "PHP Developer",
+		"responsibility": "Template Designing using Photoshop,\r\nEcommerce development,\r\nCustom Application Development,\r\nSupporting and guiding team member,\r\nStatic Website development.",
+		"logo": "",
+		"current_company": 0,
+		"status": 1
+	},
+	{
+		"id": 3,
+		"company": "KATC Autotrans Pvt Ltd",
+		"location": "Singapore",
+		"datefrom": "2016-07-18",
+		"dateto": "2016-12-10",
+		"position": "Software Developer / Technician",
+		"responsibility": "Developing and Maintaining Workshop management tool.\r\nDeveloping and Maintaining Warranty Programming Tool.\r\nIT Support.\r\nCompany site development and maintenance.\r\nSEO,\r\nPhotoshop Designing,\r\nSocial Media Promotions.",
+		"logo": "",
+		"current_company": 0,
+		"status": 1
+	},
+	{
+		"id": 4,
+		"company": "Verz Design",
+		"location": "Singapore",
+		"datefrom": "2017-01-03",
+		"dateto": "2017-02-17",
+		"position": "Web Developer",
+		"responsibility": "Custom Development Team,\r\nDeveloping all custom module for all project.\r\nProject Analyzing, Requirements Gathering, Timeline.\r\nIT Support.",
+		"logo": "",
+		"current_company": 0,
+		"status": 1
+	},
+	{
+		"id": 5,
+		"company": "Albert Tech Work",
+		"location": "Chennai",
+		"datefrom": "2017-05-01",
+		"dateto": "2017-08-10",
+		"position": "PHP Developer",
+		"responsibility": "Contract-Based Role for up to 3 months.\r\nCakePHP web developer,\r\nDeveloping office management tool, working with APIs, supporting colleagues.",
+		"logo": "",
+		"current_company": 0,
+		"status": 1
+	},
+	{
+		"id": 5,
+		"company": "Unimity Solution",
+		"location": "T Nagar, Chennai",
+		"datefrom": "2017-12-26",
+		"dateto": null,
+		"position": "Full stack developer",
+		"responsibility": "Leading developers on Angular and NodeJs,\r\nTraining Angular and UI developer,\r\nClient interaction and scrum call master,\r\nProject Analyzing,\r\nRequirements Gathering & effort estimation.",
+		"logo": "",
+		"current_company": 1,
+		"status": 1
+	}
+]

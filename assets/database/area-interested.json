@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Static Websites",
+		"content": "I prefer to develop with reusability, scalability & maintainability. Also, i have developed product showcase website with a lot easier to maintain by the client without the developer.",
+		"icon": "suitcase",
+		"order": 1,
+		"status": 1
+	},
+	{
+		"id": 2,
+		"title": "Web Tools",
+		"content": "A custom application like Office Mangement Tool, Basic CRM, Survey System, Online Exam Portal, Hotel Management System, Payroll Management System, Billing system and more.",
+		"icon": "cubes",
+		"order": 2,
+		"status": 1
+	},
+	{
+		"id": 3,
+		"title": "Ecommerce / Online shop",
+		"content": "My first project is web based eCommerce portal. I worked many eCommerce projects with options like Tracking Order, Order management, Custom Header & footer, Coupon & Voucher, Offers and more.",
+		"icon": "bullhorn",
+		"order": 3,
+		"status": 1
+	},
+	{
+		"id": 4,
+		"title": "Photoshop Design",
+		"content": "I use to design a website Mock-up, Website images (Slider images or Other images), Flyer & Brochures and Banners.",
+		"icon": "image",
+		"order": 4,
+		"status": 1
+	}
+]

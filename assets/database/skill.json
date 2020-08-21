@@ -1,0 +1,128 @@
+[
+	{
+		"id": 1,
+		"title": "PHP",
+		"level": "70%",
+		"order": 1,
+		"status": 1
+	},
+	{
+		"id": 2,
+		"title": "Codeigniter",
+		"level": "70%",
+		"order": 2,
+		"status": 1
+	},
+	{
+		"id": 3,
+		"title": "JavaScript",
+		"level": "80%",
+		"order": 3,
+		"status": 1
+	},
+	{
+		"id": 4,
+		"title": "jQuery",
+		"level": "80%",
+		"order": 4,
+		"status": 1
+	},
+	{
+		"id": 5,
+		"title": "CSS3",
+		"level": "90%",
+		"order": 5,
+		"status": 1
+	},
+	{
+		"id": 6,
+		"title": "Bootstrap",
+		"level": "80%",
+		"order": 6,
+		"status": 1
+	},
+	{
+		"id": 7,
+		"title": "HTML5",
+		"level": "90%",
+		"order": 7,
+		"status": 1
+	},
+	{
+		"id": 8,
+		"title": "JSON",
+		"level": "90%",
+		"order": 8,
+		"status": 1
+	},
+	{
+		"id": 9,
+		"title": "ReST API",
+		"level": "90%",
+		"order": 9,
+		"status": 1
+	},
+	{
+		"id": 11,
+		"title": "Photoshop",
+		"level": "70%",
+		"order": 11,
+		"status": 1
+	},
+	{
+		"id": 12,
+		"title": "AngularJS",
+		"level": "70%",
+		"order": 12,
+		"status": 1
+	},
+	{
+		"id": 13,
+		"title": "MySql",
+		"level": "80%",
+		"order": 13,
+		"status": 1
+	},
+	{
+		"id": 14,
+		"title": "Android",
+		"level": "40%",
+		"order": 14,
+		"status": 1
+	},
+	{
+		"id": 15,
+		"title": "Laravel",
+		"level": "70%",
+		"order": 15,
+		"status": 1
+	},
+	{
+		"id": 16,
+		"title": "SASS / SCSS",
+		"level": "90%",
+		"order": 16,
+		"status": 1
+	},
+	{
+		"id": 17,
+		"title": "Angular",
+		"level": "80%",
+		"order": 17,
+		"status": 1
+	},
+	{
+		"id": 18,
+		"title": "NodeJs",
+		"level": "80%",
+		"order": 18,
+		"status": 1
+	},
+	{
+		"id": 19,
+		"title": "Angular Material",
+		"level": "80%",
+		"order": 19,
+		"status": 1
+	}
+]

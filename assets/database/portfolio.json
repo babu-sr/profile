@@ -1,0 +1,30 @@
+[
+	{
+		"id": "1",
+		"title": "Good Food",
+		"category": [ "cms", "custom" ],
+		"description": "Good Food Catering is a promotional and order booking website for chennai based hotel. User can place order in front end and can check in backend with full details by admin. Order alert will send to perfered mail address and it is changable in backend by admin. Menu items will be captured from database and it can be managed using backend panel.",
+		"image": "assets/img/projects/cms/gfc1.jpg",
+		"order": 1,
+		"sitelink": "http://goodfoodcatering.org/",
+		"role": "Front end and back end Developer",
+		"tech": "PHP, MySQL, JavaScript, jQuery, Html, Ajax",
+		"team": 1,
+		"current_project": 0,
+		"status": 1
+	},
+	{
+		"id": "2",
+		"title": "RK Caterers",
+		"category": [ "cms", "custom" ],
+		"description": "RK Caterers is a promotional website for chennai based hotel. Menu items will be captured from database and it can be managed using backend panel.",
+		"image": "assets/img/projects/cms/rkcaterers1.jpg",
+		"order": 2,
+		"sitelink": "",
+		"role": "Front end and back end Developer",
+		"tech": "PHP, MySQL, JavaScript, jQuery, Html, Ajax",
+		"team": 1,
+		"current_project": 0,
+		"status": 1
+	}
+]

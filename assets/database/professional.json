@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"point": "4.5 years of experience in Web Development and Designing.",
+		"order": 1,
+		"status": 1
+	},
+	{
+		"id": 2,
+		"point": "Strong in developing HTML5, CSS3, Angular, NodeJs, PHP, MySQL, JavaScript, jQuery.",
+		"order": 2,
+		"status": 1
+	},
+	{
+		"id": 3,
+		"point": "Excellent analytic and debugging skills, Committed to excellence and continuous learning.",
+		"order": 3,
+		"status": 1
+	},
+	{
+		"id": 4,
+		"point": "Good team player and ability to work with minimum guidance.",
+		"order": 4,
+		"status": 1
+	},
+	{
+		"id": 5,
+		"point": "Have good experience in both Frontend and Backend development.",
+		"order": 5,
+		"status": 1
+	},
+	{
+		"id": 6,
+		"point": "Hands on experience in Designing, Coding, Testing, Implementation/Maintenance Support in Angular, NodeJs and MySQL.",
+		"order": 6,
+		"status": 1
+	},
+	{
+		"id": 7,
+		"point": "Integration Ability: Strong in understanding and integrating third-party web services.",
+		"order": 7,
+		"status": 1
+	},
+	{
+		"id": 8,
+		"point": "Quick learner and love to learn new Programs & Technologies.",
+		"order": 8,
+		"status": 1
+	},
+	{
+		"id": 9,
+		"point": "Extensive development of TypeScript, jQuery, JavaScript.",
+		"order": 9,
+		"status": 1
+	}
+]

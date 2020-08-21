@@ -1,0 +1,17 @@
+{
+	"name": "Babu S.R",
+	"dob": "12/1990",
+	"address": "Kundrathur, Chennai - 600069.",
+	"maritalstatus": "Unmarried",
+	"nationality": "Indian",
+	"email": "srbabuxx@yahoo.com",
+	"phone": "+91 9952943709",
+	"gender": "Male",
+	"marital": "Single",
+	"aboutme": "To work diligently in a challenging environment that would allow me to apply my skills and thoughts in a productive manner both for the organization as well as for myself. Proven problem solving, intellectual and analytical skills, Ability to learn new technologies quickly and develop innovative solutions.",
+	"careerobject": "I'm having a great passion towards software development field. Specializes in front-end development, responsive builds, user experience and PHP frameworks!. I like to handle technical challenges and doing anything and everything relating to learning new technologies. <br/><br/> I'm constantly learning web technologies and other design & development related topics, currently playing around with AngularJS and Laraval. <br/><br/> Seeking to be inspired, to envision the unlikely, to work hard for things that are worth it, and to be surrounded by those who bring out the best in me. <br/><br/> In my free time, I loves playing games like it's my likfe, going for movies with friends, and hearing songs with surround sound effect.doing anything and everything relating to learning new technologies.",
+	"designation": "Full stack developer",
+	"imgsign": "assets/img/sign.png",
+	"profilepic": "assets/img/pro-img.jpg",
+	"resume": "resume/profile.docx"
+}

@@ -1,0 +1,23 @@
+[{
+	"id": 2,
+	"college": "Tagore Arts & Science",
+	"university": "Madras University",
+	"location": "Chrompet",
+	"datefrom": 2008,
+	"dateto": 2011,
+	"cource": "Bachelor of Computer Application",
+	"createdon": "2017-04-06 00:00:00",
+	"updated_at": "-0001-11-30 00:00:00",
+	"status": 1
+}, {
+	"id": 1,
+	"college": "Madha Engineering College",
+	"university": "Anna University",
+	"location": "Chennai",
+	"datefrom": 2011,
+	"dateto": 2014,
+	"cource": "Master of Computer Application",
+	"createdon": "2017-04-06 00:00:00",
+	"updated_at": "-0001-11-30 00:00:00",
+	"status": 1
+}]
