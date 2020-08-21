@@ -2,21 +2,25 @@
 	{
 		"title": "Facebook",
 		"link": "https://www.facebook.com/babuguru5",
-		"svgIcon": "facebook"
+		"svgIcon": "facebook",
+		"order": 1
 	},
 	{
 		"title": "Google",
 		"link": "https://plus.google.com/u/0/114979168125161604161",
-		"svgIcon": "google_plus"
+		"svgIcon": "google_plus",
+		"order": 2
 	},
 	{
 		"title": "Linkedin",
 		"link": "https://www.linkedin.com/in/babu-guru-946415136",
-		"svgIcon": "linkedin"
+		"svgIcon": "linkedin",
+		"order": 3
 	},
 	{
 		"title": "GitHub",
 		"link": "https://github.com/babuguruhds",
-		"svgIcon": "github"
+		"svgIcon": "github",
+		"order": 4
 	}
 ]

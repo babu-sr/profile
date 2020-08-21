@@ -4,9 +4,7 @@
 		"title": "Playing Games",
 		"content": "I love to play games on PC. I use to play games even when I feel bad, to get out of it. I feel like normal after spends time on it.",
 		"icon": "gamepad",
-		"created_at": "0000-00-00 00:00:00",
-		"updated_at": "-0001-11-30 00:00:00",
-		"order": 0,
+		"order": 1,
 		"status": 1
 	},
 	{
@@ -14,9 +12,7 @@
 		"title": "Listening Songs",
 		"content": "Just like others, i love listening songs while traveling. Apart from the music, I use to listen to the lyrics a lot. I only hear the song with good lyrics.",
 		"icon": "music",
-		"created_at": "0000-00-00 00:00:00",
-		"updated_at": "-0001-11-30 00:00:00",
-		"order": 0,
+		"order": 2,
 		"status": 1
 	},
 	{
@@ -24,9 +20,7 @@
 		"title": "New Technologies",
 		"content": "I always like to know about mechanical & electronic based technology.",
 		"icon": "laptop",
-		"created_at": "0000-00-00 00:00:00",
-		"updated_at": "-0001-11-30 00:00:00",
-		"order": 0,
+		"order": 3,
 		"status": 1
 	},
 	{
@@ -34,9 +28,7 @@
 		"title": "Movies",
 		"content": "I like to watch Sci-Fi, Mystery, Horror, Fantasy, Action, Crime and Comedy movies.",
 		"icon": "film",
-		"created_at": "0000-00-00 00:00:00",
-		"updated_at": "-0001-11-30 00:00:00",
-		"order": 0,
+		"order": 4,
 		"status": 1
 	},
 	{
@@ -44,9 +36,7 @@
 		"title": "Just Thinking",
 		"content": "Just like everyone, I use to think a lot about something. But I feel like I'm over doing it.",
 		"icon": "commenting-o",
-		"created_at": "0000-00-00 00:00:00",
-		"updated_at": "-0001-11-30 00:00:00",
-		"order": 0,
+		"order": 5,
 		"status": 0
 	}
 ]
