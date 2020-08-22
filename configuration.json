@@ -1,8 +1,8 @@
 {
 	"configuration": {
 		"SITE_TITLE": "Profile",
-		"API_URL": "https://babu-sr.github.io",
-		"API_PREFIX": "profile",
+		"API_URL": "http://localhost:4200/",
+		"API_PREFIX": "",
 		"API_FILE": "",
 		"alertDuration": 2000,
 		"MESSAGE": {

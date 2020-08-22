@@ -8,9 +8,10 @@
 		"order": 1,
 		"sitelink": "http://goodfoodcatering.org/",
 		"role": "Front end and back end Developer",
-		"tech": "PHP, MySQL, JavaScript, jQuery, Html, Ajax",
+		"techs": [ "PHP", "MySQL", "JavaScript", "jQuery", "Html", "Ajax" ],
 		"team": 1,
 		"current_project": 0,
+		"date_done": 1598096702000,
 		"status": 1
 	},
 	{
@@ -22,9 +23,10 @@
 		"order": 2,
 		"sitelink": "",
 		"role": "Front end and back end Developer",
-		"tech": "PHP, MySQL, JavaScript, jQuery, Html, Ajax",
+		"techs": [ "PHP", "MySQL", "JavaScript", "jQuery", "Html", "Ajax" ],
 		"team": 1,
 		"current_project": 0,
+		"date_done": 1598096702000,
 		"status": 1
 	}
 ]
