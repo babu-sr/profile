@@ -11,7 +11,7 @@
 		"id": 2,
 		"title": "Listening Songs",
 		"content": "Just like others, i love listening songs while traveling. Apart from the music, I use to listen to the lyrics a lot. I only hear the song with good lyrics.",
-		"icon": "music",
+		"icon": "image",
 		"order": 2,
 		"status": 1
 	},
@@ -27,7 +27,7 @@
 		"id": 4,
 		"title": "Movies",
 		"content": "I like to watch Sci-Fi, Mystery, Horror, Fantasy, Action, Crime and Comedy movies.",
-		"icon": "film",
+		"icon": "image",
 		"order": 4,
 		"status": 1
 	},
@@ -35,7 +35,7 @@
 		"id": 5,
 		"title": "Just Thinking",
 		"content": "Just like everyone, I use to think a lot about something. But I feel like I'm over doing it.",
-		"icon": "commenting-o",
+		"icon": "image",
 		"order": 5,
 		"status": 0
 	}
