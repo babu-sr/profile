@@ -5,8 +5,8 @@
 	"theme_color": "#369c2f",
 	"background_color": "#369c2f",
 	"display": "standalone",
-	"scope": "/",
-	"start_url": "/profile",
+	"scope": ".",
+	"start_url": "./",
 	"icons": [
 		{
 			"src": "assets/favicon/icon-310x310.png",
@@ -55,6 +55,16 @@
 			"sizes": "192x192",
 			"type": "image/png",
 			"density": "4.0"
+		},
+		{
+			"src": "assets/favicon/icon-310x310.png",
+			"sizes": "310x310",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/favicon/icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
 		}
 	]
 }
