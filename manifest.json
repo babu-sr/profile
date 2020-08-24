@@ -59,12 +59,14 @@
 		{
 			"src": "assets/favicon/icon-310x310.png",
 			"sizes": "310x310",
-			"type": "image/png"
+			"type": "image/png",
+			"density": "4.0"
 		},
 		{
 			"src": "assets/favicon/icon-512x512.png",
 			"sizes": "512x512",
-			"type": "image/png"
+			"type": "image/png",
+			"density": "4.0"
 		}
 	]
 }
